@@ -7,4 +7,4 @@ enableGitInfo = true
 enableRobotsTXT = true
 
 [params.social]
-github        = "monetr/monetr"
+github = "monetr/monetr"
